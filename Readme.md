@@ -38,7 +38,7 @@ You can confirm if the product has been removed using the same url base: http://
 I used the following status codes.  
 
 - 404: Not found 
-- 201: Added successfully
+- 201: Created
 - 500: A problem with the server
 - 200: Ok 
 
